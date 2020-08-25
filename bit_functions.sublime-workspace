@@ -1,0 +1,453 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-left\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"paddin",
+				"padding-left\tproperty"
+			],
+			[
+				"border",
+				"border-top\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"ali",
+				"align-content\tproperty"
+			],
+			[
+				"menu",
+				"menuToggle"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"sel",
+				"align-self\tproperty"
+			],
+			[
+				"conen",
+				"content-head"
+			],
+			[
+				"grid-tem",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"grid-te",
+				"grid-template-areas\tproperty"
+			],
+			[
+				"backgourn",
+				"background-color\tproperty"
+			],
+			[
+				"left",
+				"border-left\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"b",
+				"border-left\tproperty"
+			],
+			[
+				"spac",
+				"border-spacing\tproperty"
+			],
+			[
+				"new",
+				"newElement"
+			],
+			[
+				"heih",
+				"min-height\tproperty"
+			],
+			[
+				"al",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"get",
+				"getPlayerHealth"
+			],
+			[
+				"playerA",
+				"playerAttackValues"
+			],
+			[
+				"player",
+				"playerAttackValues"
+			],
+			[
+				"calc",
+				"calcOutDamage"
+			],
+			[
+				"random",
+				"randomEnemyNumber"
+			],
+			[
+				"hero",
+				"heroType"
+			],
+			[
+				"n",
+				"noChangeyMyNamey"
+			],
+			[
+				"has",
+				"has_data"
+			],
+			[
+				"con",
+				"consumer"
+			],
+			[
+				"sem",
+				"sem_init"
+			],
+			[
+				"has_",
+				"has_space"
+			],
+			[
+				"swapper",
+				"swapper_info_t"
+			],
+			[
+				"pthread",
+				"pthread_create"
+			],
+			[
+				"swp",
+				"swapper_info_t"
+			],
+			[
+				"time",
+				"timeout_thread"
+			],
+			[
+				"swapp",
+				"swapper_info_t"
+			],
+			[
+				"sw",
+				"swapcount"
+			],
+			[
+				"swa",
+				"swapper_info_t"
+			],
+			[
+				"split",
+				"split_clear"
+			],
+			[
+				"num",
+				"num_of_args"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"sie",
+				"sizeof"
+			],
+			[
+				"ret",
+				"retStr"
+			],
+			[
+				"word",
+				"wordArray"
+			],
+			[
+				"spli",
+				"split_clear"
+			],
+			[
+				"string",
+				"string_index"
+			],
+			[
+				"ex",
+				"exec_new_process"
+			],
+			[
+				"bin",
+				"binExec"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/17032/Documents/WebDevProjects/EventListeners/style.css",
+		"/C/Users/17032/Documents/WebDevProjects/EventListeners/script.js",
+		"/C/Users/17032/Documents/WebDevProjects/EventListeners/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/DefaultEvents/script.js",
+		"/C/Users/17032/Documents/WebDevProjects/DefaultEvents/style.css",
+		"/C/Users/17032/Documents/WebDevProjects/DefaultEvents/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/MenuToggle/style.css",
+		"/C/Users/17032/Documents/WebDevProjects/MenuToggle/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/MenuToggle/script.js",
+		"/C/Users/17032/Documents/WebDevProjects/CssFlexbox/style.css",
+		"/C/Users/17032/Documents/WebDevProjects/CssFlexbox/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/CssGrid/style.css",
+		"/C/Users/17032/Documents/WebDevProjects/CssGrid/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/SimpleBox/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/Welcome/index.html",
+		"/C/Users/17032/Documents/WebDevProjects/Testing/style.css",
+		"/C/Users/17032/Documents/WebDevProjects/Testing/index.html",
+		"/C/Users/17032/Documents/RPG_Game_Project/index.html",
+		"/C/Users/17032/Documents/RPG_Game_Project/style.css",
+		"/C/Users/17032/Documents/RPG_Game_Project/js/enemy.js",
+		"/C/Users/17032/Documents/RPG_Game_Project/js/player.js",
+		"/C/Users/17032/Documents/RPG_Game_Project/js/gamemanager.js",
+		"/C/Users/17032/Documents/JavaScript/index.html",
+		"/C/Users/17032/Documents/WorkoutWebsite/index.html",
+		"/C/Users/17032/Documents/JavaScript/index.js",
+		"/C/Users/17032/Documents/JavaScript/.git/COMMIT_EDITMSG",
+		"/C/cygwin64/home/17032/JavaScript/index.html",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/bio.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/fs.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/defs.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/buf.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/tfsfile.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/file.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/fs.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/hexfile/hexdump.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/trace/trace.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/hex/hexdump.c",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/fcntl.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/file.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/param.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/proc.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/stat.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/types.h",
+		"/C/cygwin64/home/17032/CPSC405/FileLab/user.h",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/main-deadlock-global.c",
+		"/C/cygwin64/home/17032/CPSC405/ThreadSortLab/thread_sorting_students.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/shell.c",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/common_threads.h",
+		"/C/cygwin64/home/17032/CPSC405/ThreadSortLab/thread_sorting_students2.c",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/thread_create_with_return_args.c",
+		"/C/cygwin64/home/17032/CPSC405/Test2/21.c",
+		"/C/cygwin64/home/17032/CPSC405/Test2/22.c",
+		"/C/cygwin64/home/17032/CPSC405/Test2/20.c",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/main-signal.c",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/main-signal-cv.c",
+		"/C/cygwin64/home/17032/CPSC405/ThreadSortLab/thread_sorting.c",
+		"/C/cygwin64/home/17032/CPSC405/ThreadSortLab/thread_sorting.h",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/main-deadlock.c",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/common.h",
+		"/C/cygwin64/home/17032/CPSC405/PthreadLab/mythreads.h",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/split.h",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/MyShell/execTest.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/simple-shell-master/src/main.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/ls.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/split.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/MyShell/teenysh.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/sort.txt",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/sleep.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/input.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/simple_pipe.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/redirect_stdout.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/parent_child_pipe.c",
+		"/C/cygwin64/home/17032/CPSC405/ShellLab/simple-shell-master/src/error_handler.c"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bit_functions.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
